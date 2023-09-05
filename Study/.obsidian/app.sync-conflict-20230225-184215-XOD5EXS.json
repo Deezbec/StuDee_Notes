@@ -1,0 +1,7 @@
+{
+  "alwaysUpdateLinks": true,
+  "livePreview": false,
+  "promptDelete": false,
+  "trashOption": "local",
+  "attachmentFolderPath": "./Files"
+}

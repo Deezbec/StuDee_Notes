@@ -1,0 +1,21 @@
+{
+  "alwaysUpdateLinks": true,
+  "livePreview": false,
+  "promptDelete": false,
+  "trashOption": "local",
+  "attachmentFolderPath": "./Files",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Unsorted",
+  "defaultViewMode": "preview",
+  "showLineNumber": true,
+  "spellcheck": true,
+  "spellcheckLanguages": null,
+  "mobileToolbarCommands": [
+    "editor:attach-file",
+    "editor:configure-toolbar",
+    "editor:open-link-in-new-window",
+    "editor:context-menu",
+    "obsidian-tasks-plugin:edit-task"
+  ],
+  "mobilePullAction": "command-palette:open"
+}

@@ -1,0 +1,250 @@
+{
+  "main": {
+    "id": "79f91bcb1637c444",
+    "type": "split",
+    "children": [
+      {
+        "id": "f56e6ac690d5f666",
+        "type": "split",
+        "children": [
+          {
+            "id": "90a3576f22deacd5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "fc1981f309e1b4a7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "!Main-themes/Lists/Goods.md",
+                    "mode": "preview",
+                    "backlinks": false,
+                    "source": true
+                  }
+                }
+              },
+              {
+                "id": "383828150a22d039",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Entertainment/Rocket-league/Content/Mechs.md",
+                    "mode": "preview",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "9ffb25b15519235a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "de36d04f916e6ddd",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              },
+              {
+                "id": "80d82838e37596ff",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "!Main-themes/Lists/Wanna-learn.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": true
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "1719552c970db318",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b57bb98a54bf7e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Forgotten-Crossroads.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1722dd25fcd2fbcd",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f0800442bdb1be09",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "a781422007442243",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "5587",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "56aa793a09bab739",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "4fe5cc6d1a6eecb8",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      },
+      {
+        "id": "e54475b09c34afb3",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "15a80d381b9aa220",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a15e045f8f17e98d",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Entertainment/Rocket-league/Content/Mechs.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "a61b33aec4578fa9",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Entertainment/Rocket-league/Content/Mechs.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "37ceb0c1a536d825",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "!Main-themes/Lists/Wanna-learn.md"
+          }
+        }
+      }
+    ]
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "random-note:Open random note": false,
+      "audio-recorder:Start/stop recording": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "80d82838e37596ff",
+  "lastOpenFiles": [
+    "!Main-themes/Lists/Goods.md",
+    "!Main-themes/Lists/Wanna-learn.md",
+    "!Main-themes/Archive/Home Gadgets.md",
+    "Main.md",
+    "Daily notes/11-03-23.md",
+    "Daily notes/27-02-23.md",
+    "Forgotten-Crossroads.md",
+    "!Main-themes/Lists/!Lists.md",
+    "Daily notes/14-03-23.md",
+    "!Main-themes/Lists/Anime-lists.md",
+    "Entertainment/Games-reminder.md",
+    "Entertainment/Rocket-league/RL-settings.md",
+    "Entertainment/Rocket-league/Content/SpookLuke.md",
+    "Entertainment/Rocket-league/Content/Mechs.md",
+    "Entertainment/Rocket-league/RL-vids.md",
+    "Entertainment/Rocket-league/RL-workshop.md",
+    "Unsorted/Files/Pasted image 20230227184705.png",
+    "Unsorted/Files/Pasted image 20230227184619.png",
+    "Unsorted/Files/Pasted image 20230227184611.png",
+    "Unsorted/Files/Pasted image 20230227184551.png",
+    "Unsorted/Untitled.md",
+    "Entertainment/Rocket-league/Content/Wayton Pilkin.md",
+    "Entertainment/Rocket-league/Content/AMustyCow.md",
+    "Entertainment/Rocket-league/Content/Sir Timbers.md",
+    "Entertainment/Rocket-league/Content/OneEyedGhoul.md",
+    "Entertainment/Rocket-league/Content/Other tutors.md",
+    "Entertainment/Rocket-league/Content/HK Boba.md",
+    "Entertainment/Rocket-league/Content/Sir Classy.md",
+    "Entertainment/Rocket-league/Content/Virge.md",
+    "Entertainment/Rocket-league/Content",
+    "Unsorted/Other tutors.md",
+    "Files/Recording 20230225211153.webm",
+    "Files/Recording 20230225211129.webm",
+    "Files/Recording 20230225211138.webm",
+    "Files/Recording 20230225211144.webm"
+  ]
+}
