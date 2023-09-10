@@ -30,10 +30,36 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Entertainment/Rocket-league/Content/Mechs.md",
-                    "mode": "preview",
+                    "file": "Study/Информатика/Системы счисления.md",
+                    "mode": "source",
                     "backlinks": false,
                     "source": false
+                  }
+                }
+              },
+              {
+                "id": "854505573d11e717",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Study/Информатика/Системы счисления.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": true
+                  }
+                }
+              },
+              {
+                "id": "b3f20e2170640234",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Study/Информатика/Системы счисления.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": true
                   }
                 }
               }
@@ -58,8 +84,8 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "!Main-themes/Lists/Wanna-learn.md",
-                    "mode": "source",
+                    "file": "Study/МатАн/Графики/показательная функция.md",
+                    "mode": "preview",
                     "backlinks": false,
                     "source": true
                   }
@@ -113,7 +139,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "5587",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -191,7 +217,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "!Main-themes/Lists/Wanna-learn.md"
+            "file": "Study/Информатика/Системы счисления.md"
           }
         }
       }
@@ -199,6 +225,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "random-note:Open random note": false,
       "audio-recorder:Start/stop recording": false,
       "switcher:Open quick switcher": false,
@@ -209,39 +236,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "80d82838e37596ff",
+  "active": "383828150a22d039",
   "lastOpenFiles": [
+    "Study/Информатика/Коды представления чисел.md",
+    "Study/Введение в проф деят/лекция 2.md",
     "!Main-themes/Lists/Goods.md",
-    "!Main-themes/Lists/Wanna-learn.md",
-    "!Main-themes/Archive/Home Gadgets.md",
-    "Main.md",
-    "Daily notes/11-03-23.md",
-    "Daily notes/27-02-23.md",
+    "Study/Информатика/Системы счисления.md",
+    "Study/В.md",
+    "Study/Введение в проф деят",
+    "Study/МатАн/Графики.md",
+    "Study/История.md",
+    "Study/МатАн/Числовая последовательность и ее предел.md",
+    "Study/МатАн/Un-sorted.md",
+    "Study/Процедурное программирование/Алгоритм.md",
+    "Excalidraw/Drawing 2023-09-06 12.49.21.excalidraw.md",
+    "Study/МатАн/Язык εδ.md",
+    "Files/Pasted image 20230731130741.png",
+    "Unsorted/геометрическая прогрессия.md",
+    "Study/МатАн/Матрицы.md",
+    "Study/Eng-mon/Mounteneering.md",
     "Forgotten-Crossroads.md",
+    "Main.md",
+    "Мама я ПрофОрг/Общее.md",
+    "Study/МатАн/Графики/степенная функция.md",
+    "Study/МатАн/Графики/тригонометрические функции.md",
+    "Study/МатАн/Графики/логарифмическая функция.md",
     "!Main-themes/Lists/!Lists.md",
-    "Daily notes/14-03-23.md",
-    "!Main-themes/Lists/Anime-lists.md",
-    "Entertainment/Games-reminder.md",
-    "Entertainment/Rocket-league/RL-settings.md",
-    "Entertainment/Rocket-league/Content/SpookLuke.md",
-    "Entertainment/Rocket-league/Content/Mechs.md",
-    "Entertainment/Rocket-league/RL-vids.md",
-    "Entertainment/Rocket-league/RL-workshop.md",
+    "!Main-themes/Current/Health.md",
+    "!Main-themes/Archive/Собеседование.md",
+    "!Main-themes/Archive/My-poetry.md",
+    "!Main-themes/Archive/Gadgets.md",
+    "Study/МатАн/Files/Pasted image 20230904080750.png",
+    "Мама я профОрг",
+    "Excalidraw",
     "Unsorted/Files/Pasted image 20230227184705.png",
     "Unsorted/Files/Pasted image 20230227184619.png",
     "Unsorted/Files/Pasted image 20230227184611.png",
     "Unsorted/Files/Pasted image 20230227184551.png",
-    "Unsorted/Untitled.md",
-    "Entertainment/Rocket-league/Content/Wayton Pilkin.md",
-    "Entertainment/Rocket-league/Content/AMustyCow.md",
-    "Entertainment/Rocket-league/Content/Sir Timbers.md",
-    "Entertainment/Rocket-league/Content/OneEyedGhoul.md",
-    "Entertainment/Rocket-league/Content/Other tutors.md",
-    "Entertainment/Rocket-league/Content/HK Boba.md",
-    "Entertainment/Rocket-league/Content/Sir Classy.md",
-    "Entertainment/Rocket-league/Content/Virge.md",
     "Entertainment/Rocket-league/Content",
-    "Unsorted/Other tutors.md",
     "Files/Recording 20230225211153.webm",
     "Files/Recording 20230225211129.webm",
     "Files/Recording 20230225211138.webm",

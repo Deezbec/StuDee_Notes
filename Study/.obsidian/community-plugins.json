@@ -1,6 +1,7 @@
 [
   "obsidian-tasks-plugin",
   "obsidian-outliner",
-  "obsidian-math-plus",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "obsidian-asciimath",
+  "obsidian-desmos"
 ]
